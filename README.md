@@ -1,9 +1,12 @@
 ### Hola 👋, Mi nombre es Milena
 #### Soy desarrolladora web full stack
-Soy una persona que constantemente nutre su cerebro de conocimiento, me gusta aprender cosas nuevas y terminar mi día pensando en todo lo que podría hacer con lo aprendido.
 
 Habilidades: 
 JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZE / CHART.JS / SCRUM
+
+- 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
+- 🌱 Estoy aprendiendo Typescript y React Native  
+- 📫 Cómo contactarme: milenatripode@hotmail.com 
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -17,10 +20,6 @@ JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZ
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
  </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
-
-- 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
-- 🌱 Estoy aprendiendo Typescript y React Native  
-- 📫 Cómo contactarme: milenatripode@hotmail.com 
 
 
  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/maria-milena-tripode/)    
