@@ -9,7 +9,7 @@ Habilidades: JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRES
 - 📫 Cómo contactarme: milenatripode@hotmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miletripode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maria-milena-tripode/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miletripode)  [<img src='https://www.pngegg.com/es/png-wgajm' alt='linkedin' height='40'>](https://www.linkedin.com/in/maria-milena-tripode/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miletripode)](https://github.com/anuraghazra/github-readme-stats)
 
