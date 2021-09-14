@@ -4,7 +4,7 @@
 
 - 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
 - 🌱 Estoy aprendiendo Typescript y React Native  
-- 📫 Cómo contactarme: milenatripode@hotmail.com 
+- 📫 Cómo contactarme: milenatripode@hotmail.com / https://www.linkedin.com/in/maria-milena-tripode/
 
 Habilidades: 
 JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZE / CHART.JS / SCRUM
@@ -27,8 +27,6 @@ JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miletripode&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miletripode)  
- 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maria-milena-tripode/)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miletripode)
 
 
