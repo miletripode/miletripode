@@ -1,12 +1,12 @@
 ### Hola 👋, Mi nombre es Milena
 #### Soy desarrolladora web full stack
 
-Habilidades: 
-JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZE / CHART.JS / SCRUM
-
 - 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
 - 🌱 Estoy aprendiendo Typescript y React Native  
 - 📫 Cómo contactarme: milenatripode@hotmail.com 
+
+Habilidades: 
+JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZE / CHART.JS / SCRUM
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
