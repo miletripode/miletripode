@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Milena
+#### Soy desarrolladora web full stack
+Soy una persona que constantemente nutre su cerebro de conocimiento, me gusta aprender cosas nuevas y terminar mi día pensando en todo lo que podría hacer con lo aprendido.
 
-<!--
-**miletripode/miletripode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades: JAVASCRIPT / REACT / REDUX / NODE / EXPRESS / HTML / CSS / POSTGRESQL / SEQUELIZE / SCRUM
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
+- 🌱 Estoy aprendiendo Typescript y React Native  
+- 📫 Cómo contactarme: milenatripode@hotmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miletripode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maria-milena-tripode/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miletripode)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miletripode&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miletripode)  
+
+![Profile views](https://gpvc.arturio.dev/miletripode)  
