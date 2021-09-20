@@ -2,8 +2,7 @@
 ### Hola 👋, Mi nombre es Milena
 #### Soy desarrolladora web full stack
 
-- 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry 
-- 🌱 Estoy aprendiendo Typescript y React Native  
+- 🔭 Estoy trabajando en reforzar mis conocimientos de lo aprendido en el bootcamp Henry   
 - 📫 Cómo contactarme: milenatripode@hotmail.com / https://www.linkedin.com/in/maria-milena-tripode/
 
 <p align="left"> 
